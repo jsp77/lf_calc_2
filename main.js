@@ -1,3 +1,5 @@
+// HI JAY!!!!!!!
+
 var num_array = ['', ''];
 var num_index = 0;
 var operator = 1;
